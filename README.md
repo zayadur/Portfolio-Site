@@ -23,6 +23,7 @@ Responsiveness was also added for image elements and bodies of text to conform t
 1. Clone the repository
 2. Navigate to the `site` directory
 3. Open `index.html` with your desired browser
+
 ### Emulating a server
 _Assuming you have the latest version of Node.js installed..._
 1. Install the `http-server` module globally (`npm install -g http-server`) (skip this step if you already have this)
